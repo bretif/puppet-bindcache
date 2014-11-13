@@ -1,0 +1,21 @@
+{
+  "author": "Bertrand RETIF",
+  "checksums": {
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "e579c4aa62f98a7ae4c05cdfac23fb22",
+    "Modulefile": "b511ef80fa38aca065a9193ba7432bbe",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "tests/init.pp": "140d934adefc9333305c0cd8bfad05ad",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "README.markdown": "92bbec73d4ed35876460d6458e1810f3"
+  },
+  "dependencies": [],
+  "description": "Support only debian/Ubuntu os",
+  "license": "",
+  "name": "bretif-bindcache",
+  "project_page": "",
+  "source": "",
+  "summary": "Configure bind as local cache serveur",
+  "types": [],
+  "version": "0.1.0"
+}
